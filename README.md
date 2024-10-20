@@ -3,7 +3,7 @@
 Run the initialization command:
 
 ```bash
-npx create-next-app@latest [project-name] -e https://github.com/uglyswag/nextjs-starter
+npx create-next-app [project-name] -e https://github.com/uglyswag/nextjs-starter
 ```
 
 A list of dependencies that are already installed in the starter:
