@@ -1,5 +1,3 @@
-interface IFooter {}
-
-export function Footer({}: IFooter) {
-	return <div>Footer</div>
+export function Footer() {
+	return <footer className='p-10'>Footer</footer>
 }
