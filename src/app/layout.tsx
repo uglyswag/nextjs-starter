@@ -1,7 +1,7 @@
 import { SmoothScrolling } from '@/components/layout/SmoothScrolling'
 import type { Metadata } from 'next'
 import localFont from 'next/font/local'
-import './globals.scss'
+import './globals.css'
 
 const inter = localFont({
 	src: [

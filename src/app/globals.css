@@ -1,6 +1,9 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import 'tailwindcss';
+@theme {
+	--font-sans: 'Inter', 'sans-serif';
+	--color-black: rgba(16, 16, 16, 1);
+	--color-aqua: #7bdcc8;
+}
 
 /* Reset and base styles  */
 * {
